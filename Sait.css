@@ -6,7 +6,7 @@ body{
     background-position:center center ;
     background-size:cover ;
 }
-.Footer{
+.Header{
     width: 100%;
     height: 8%;
     display: flex;
